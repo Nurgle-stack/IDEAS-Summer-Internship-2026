@@ -60,8 +60,8 @@ The analysis is contained in a single Jupyter Notebook:
 ---
 
 ## Author
-**H. Siamthianlam**
-Assam Don Bosco University
+**H. Siamthianlam**,
+Assam Don Bosco University,
 B.Tech in Computer Science and Engineering | Batch 2024-2028
 
 ---
